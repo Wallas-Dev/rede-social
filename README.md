@@ -1,1 +1,3 @@
-Projeto rede social
+Projeto onde criei minha rede-social, onde pode se postar fotos e comentar nas postagens.
+
+Link para usar: Breve...
